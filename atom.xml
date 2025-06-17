@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>https://time-520.github.io</id>
     <title>Hexo</title>
-    <link href="http://example.com" />
+    <link href="https://time-520.github.io" />
     <updated>2025-02-02T07:13:01.000Z</updated>
     <entry>
-        <id>http://example.com/2025/02/02/c++/</id>
+        <id>https://time-520.github.io/2025/02/02/c++/</id>
         <title>C++基础入门</title>
-        <link rel="alternate" href="http://example.com/2025/02/02/c++/"/>
+        <link rel="alternate" href="https://time-520.github.io/2025/02/02/c++/"/>
         <content type="html">&lt;h1 id=&#34;注释的用意&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#注释的用意&#34;&gt;#&lt;/a&gt; 注释的用意&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;单行注释: // 描述信息&lt;/li&gt;
@@ -928,9 +928,9 @@
         <updated>2025-02-02T07:13:01.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/21/c++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/</id>
+        <id>https://time-520.github.io/2025/01/21/c++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/</id>
         <title>C++核心编程</title>
-        <link rel="alternate" href="http://example.com/2025/01/21/c++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/"/>
+        <link rel="alternate" href="https://time-520.github.io/2025/01/21/c++%E6%A0%B8%E5%BF%83%E7%BC%96%E7%A8%8B/"/>
         <content type="html">&lt;h1 id=&#34;内存分区模型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#内存分区模型&#34;&gt;#&lt;/a&gt; 内存分区模型&lt;/h1&gt;
 &lt;p&gt;C++ 程序在执行是时 将内存大方向划分 4 个区域&lt;/p&gt;
 &lt;ul&gt;
@@ -1497,9 +1497,9 @@
         <updated>2025-01-21T02:13:01.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2025/01/20/c++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/</id>
+        <id>https://time-520.github.io/2025/01/20/c++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/</id>
         <title>C++提高编程</title>
-        <link rel="alternate" href="http://example.com/2025/01/20/c++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/"/>
+        <link rel="alternate" href="https://time-520.github.io/2025/01/20/c++%E6%8F%90%E9%AB%98%E7%BC%96%E7%A8%8B/"/>
         <content type="html">&lt;ul&gt;
 &lt;li&gt;本阶段主要针对 c++ &lt;code&gt;泛型编程&lt;/code&gt; 和 &lt;code&gt;STL&lt;/code&gt;  技术做详细讲解 探讨 c++ 更深层的使用&lt;/li&gt;
 &lt;/ul&gt;
@@ -1645,9 +1645,9 @@
         <updated>2025-01-20T02:13:01.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/04/13/week-2/</id>
+        <id>https://time-520.github.io/2020/04/13/week-2/</id>
         <title>第2周 判断</title>
-        <link rel="alternate" href="http://example.com/2020/04/13/week-2/"/>
+        <link rel="alternate" href="https://time-520.github.io/2020/04/13/week-2/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
@@ -1815,9 +1815,9 @@ grape&lt;/p&gt;
         <updated>2020-04-13T11:12:45.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2020/04/12/week-1/</id>
+        <id>https://time-520.github.io/2020/04/12/week-1/</id>
         <title>第1周 计算</title>
-        <link rel="alternate" href="http://example.com/2020/04/12/week-1/"/>
+        <link rel="alternate" href="https://time-520.github.io/2020/04/12/week-1/"/>
         <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
  以下为个人学习笔记和习题整理&lt;br /&gt;
 课程：零基础学 Java 语言 - 浙江大学 - 翁恺 @ 中国大学 MOOC&lt;br /&gt;
