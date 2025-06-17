@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>字节纪元</title>
         <link>https://time-520.github.io</link>
-        <description></description>
+        <description>字节 + 编年史，记录开发旅程与项目成长。</description>
         <language>en</language>
         <pubDate>Sun, 02 Feb 2025 15:13:01 +0800</pubDate>
         <lastBuildDate>Sun, 02 Feb 2025 15:13:01 +0800</lastBuildDate>

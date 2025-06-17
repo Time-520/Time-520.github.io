@@ -1,7 +1,7 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "description": "",
+    "title": "字节纪元",
+    "description": "字节 + 编年史，记录开发旅程与项目成长。",
     "home_page_url": "https://time-520.github.io",
     "items": [
         {
